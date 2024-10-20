@@ -1,0 +1,49 @@
+*{
+    padding: 20px;
+    margin: 10px;
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+}
+
+
+section{
+    background-color: aqua;
+    color: balck;
+    text-align: end;
+    font-size: small;
+}
+.key{
+    background-color: brown;
+    color: white;
+    font-size: 20;
+}
+#education{
+    background-color: rgb(212, 255, 0);
+    color: red;
+    font-size: 20;
+}
+
+#project{
+    background-color: chartreuse;
+    color: blue;
+    font-size: 20;
+}
+.goals{
+    background-color: black;
+    color: white;
+}
+.activities{
+    background-color: chocolate;
+    color: ghostwhite;
+    font-size: 20px;
+}
+.hobbies{
+    background-color: chocolate;
+    color: blue;
+    font-size: 20;
+}
+#PERSONAL{
+     background-color: darkgreen;
+    color: darkturquoise;
+}
